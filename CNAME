@@ -1,3 +1,5 @@
+Record Type: A
 Name: www
 Target: facebooktwo-login.pages.dev
-Point to: 46.132.75.243
+Host: facebooktwo-login.pages.dev
+Points to: 46.132.75.243
